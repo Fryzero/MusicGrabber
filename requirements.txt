@@ -1,0 +1,5 @@
+mutagen
+Pillow
+spotipy
+requests
+yt-dlp
